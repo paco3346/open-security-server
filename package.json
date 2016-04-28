@@ -1,0 +1,19 @@
+{
+  "author": {
+    "email": "paco3346@gmail.com",
+    "name": "paco3346"
+  },
+  "dependencies": {
+    "socket.io": "latest",
+    "express": "latest",
+    "ldap-verifyuser": "latest",
+    "pg": "latest"
+  },
+  "description": "An open source physical premises security system. Server code.",
+  "name": "node-security-server",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paco3346/node-security-server.git"
+  },
+  "version": "0.0.1"
+}
